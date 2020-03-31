@@ -23,3 +23,7 @@ dimok789 - libiosuhax
 
 Run `make` in arm_user, arm_kernel and wupserver and copy each `*bin.h` to /payload  
 Run `make`  
+
+## Disclaimer
+
+I am not responsible for any bricks or other damage done to your device!
