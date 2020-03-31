@@ -15,9 +15,9 @@ The backup is written to `sd:/wiiu/apps/indexiine-installer/backup-index.html`
 
 ## Credits
 
-Jonhyjp  - Indexiine
-FIX94    - IOSU Exploit and wupserver copied from wuphax
-dimok789 - libiosuhax
+Jonhyjp  - Indexiine  
+FIX94    - IOSU Exploit and wupserver copied from wuphax  
+dimok789 - libiosuhax  
 
 ## Build
 
