@@ -1,6 +1,8 @@
 # indexiine-installer
 Installer for Indexiine
 
+![alt text](https://i.imgur.com/TrjtBUx.png "Icon")
+
 You can find more Information about Indexiine in the [GBAtemp thread](https://gbatemp.net/threads/indexiine-load-cfw-during-boot-and-offline-without-a-vc-ds-title.553681/)!
 
 ## Usage
