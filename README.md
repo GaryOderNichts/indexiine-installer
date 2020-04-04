@@ -8,6 +8,7 @@ You can find more Information about Indexiine in the [GBAtemp thread](https://gb
 ## Usage
 
 You don't need to run CFW. Indexiine Installer will do an IOSU Exploit when there is no CFW.  
+Indexiine requires the payload.elf from [here](https://github.com/wiiu-env/homebrew_launcher_installer/releases/tag/v1.4) to be placed to `sd:/wiiu/` or else the exploit won't work.  
 
 * Extract the `.zip` from the [releases page](https://github.com/GaryOderNichts/indexiine-installer/releases) to your sd card  
 * Run Indexiine Installer
