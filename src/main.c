@@ -242,7 +242,7 @@ int Menu_Main(void)
 	OSScreenClearBufferEx(1, 0);
 
 	console_print_pos(0, 0, "-----------------------------------------");
-	console_print_pos(0, 1, "Indexiine Installer v1 by GaryOderNichts");
+	console_print_pos(0, 1, "Indexiine Installer v2 by GaryOderNichts");
 	console_print_pos(0, 2, "Indexiine by Jonhyjp");
 	console_print_pos(0, 3, "Detected Region: %s", regionStrings[region]);
 	console_print_pos(0, 4, "-----------------------------------------");

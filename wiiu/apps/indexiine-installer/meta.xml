@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>Indexiine Installer</name>
+  <coder>GaryOderNichts, Jonhyjp</coder>
+  <version>v2</version>
+  <release_date>20200411210000</release_date>
+  <short_description>Installer for Indexiine</short_description> 
+  <long_description>
+	Press A to backup current index.html and install Indexiine  
+	Press B to restore
+  </long_description> 
+  <url>https://github.com/GaryOderNichts/indexiine-installer</url>
+  <category>tool</category>
+</app>

@@ -3,3 +3,4 @@ build/
 payload/*
 *.elf
 *.bin
+*.zip
