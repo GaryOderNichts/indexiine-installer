@@ -283,8 +283,8 @@ int Menu_Main(void)
 		// Install
 		if(vpadError == 0 && ((vpad.btns_d | vpad.btns_h) & VPAD_BUTTON_A))
 		{
-			// Backup the file if it exists
-			if (fileExists(indexpath))
+			// Backup the file if it exists and there is no backup
+			if (fileExists(indexpath) && !fileExists(INDEX_BACKUP_PATH))
 			{
 				copyFile(indexpath, INDEX_BACKUP_PATH);
 			}
